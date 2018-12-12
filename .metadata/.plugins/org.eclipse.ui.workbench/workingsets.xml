@@ -13,4 +13,5 @@
 <item elementID="=eureka/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=food/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1544655520033_2" label="Window Working Set" name="Aggregate for window 1544655520033"/>
 </workingSetManager>
