@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+/Users/michaelcraig/Documents/revQuinnWeek/12:12/.metadata/.plugins/org.eclipse.jdt.core
+1030031612.index
+3647775922.index
+3120927654.index
+2652984346.index
+3458290437.index
+86883236.index
+722665698.index
+3251706068.index
+3273412559.index
+1750726712.index
+4261733667.index
